@@ -10,7 +10,7 @@ Sistem ini dibuat menggunakan konsep database relasional modern sehingga mampu m
 
 ## 👥 Nama Siswa
 
-Muhammad Wildan Zulfahmi
+Naufal Imania
 
 ---
 
